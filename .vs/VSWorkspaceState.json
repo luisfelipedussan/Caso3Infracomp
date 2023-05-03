@@ -1,7 +1,9 @@
 {
   "ExpandedNodes": [
-    ""
+    "",
+    "\\caso3",
+    "\\caso3\\src"
   ],
-  "SelectedNode": "\\C:\\Users\\Talej\\Source\\Repos\\Caso3Infracomp",
+  "SelectedNode": "\\caso3\\src\\Main.java",
   "PreviewInSolutionExplorer": false
 }
